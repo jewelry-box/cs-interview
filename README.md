@@ -61,7 +61,21 @@
 </table>
 
 ### 💍 2기 멤버
-대기 중 . . .
+
+<table>
+ <tr>
+    <td align="center"><a href="https://github.com/eun-byeol"><img src="https://avatars.githubusercontent.com/u/95845037?v=4" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/cutehumanS2"><img src="https://avatars.githubusercontent.com/u/60508828?v=4" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/jongmee"><img src="https://avatars.githubusercontent.com/u/78892355?v=4" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/linirini"><img src="https://avatars.githubusercontent.com/u/101927543?v=4" width="130px;" alt=""></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/eun-byeol"><b>nak-honest</b></a></td>
+    <td align="center"><a href="https://github.com/cutehumanS2"><b>cutehumanS2</b></a></td>
+    <td align="center"><a href="https://github.com/jongmee"><b>ehBeak</b></a></td>
+    <td align="center"><a href="https://github.com/linirini"><b>linirini</b></a></td>
+  </tr>
+</table>
 
 <br>
 <br>
